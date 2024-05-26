@@ -10,7 +10,7 @@ import datetime
 import tkinter as tk
 from tkinter import*
 
-# окно журнал
+# окно журнала
 def window_event():
 	w_event = tk.Toplevel()
 	w_event.grab_set()
